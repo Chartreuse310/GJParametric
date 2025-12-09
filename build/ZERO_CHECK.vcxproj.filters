@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\yoyfl\Documents\251016_GJParametric\programs\GJParametric\build\CMakeFiles\182f0f95f355c602c5316589e797932b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A5AB159A-393E-3837-9F68-8291136C6B4B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

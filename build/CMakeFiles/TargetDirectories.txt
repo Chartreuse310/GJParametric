@@ -1,0 +1,3 @@
+C:/Users/yoyfl/Documents/251016_GJParametric/programs/GJParametric/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/yoyfl/Documents/251016_GJParametric/programs/GJParametric/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/yoyfl/Documents/251016_GJParametric/programs/GJParametric/build/src/CMakeFiles/GJParametric.dir

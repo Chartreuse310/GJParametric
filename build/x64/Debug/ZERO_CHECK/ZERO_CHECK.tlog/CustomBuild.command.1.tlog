@@ -1,0 +1,10 @@
+^C:\USERS\YOYFL\DOCUMENTS\251016_GJPARAMETRIC\PROGRAMS\GJPARAMETRIC\BUILD\CMAKEFILES\182F0F95F355C602C5316589E797932B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/yoyfl/Documents/251016_GJParametric/programs/GJParametric -BC:/Users/yoyfl/Documents/251016_GJParametric/programs/GJParametric/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/yoyfl/Documents/251016_GJParametric/programs/GJParametric/build/GJParametric.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
